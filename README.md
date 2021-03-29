@@ -1,2 +1,2 @@
 # chandanant.github.io
-Code that powers my personal site
+Code for chandanant.github.io
