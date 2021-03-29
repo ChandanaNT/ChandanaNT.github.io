@@ -1,5 +1,5 @@
-baseURL = "http://chandanant.github.io"
-publishDir = "chandanant.github.io"
+baseURL = "https://chandanant.github.io"
+publishDir = "docs"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Chandana's Blog"

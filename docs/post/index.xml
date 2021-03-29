@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chandana&#39;s Blog</title>
-    <link>http://chandanant.github.io/</link>
-    <description>Recent content on Chandana&#39;s Blog</description>
+    <title>Posts on Chandana&#39;s Blog</title>
+    <link>https://chandanant.github.io/post/</link>
+    <description>Recent content in Posts on Chandana&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Mar 2021 17:39:19 +0530</lastBuildDate><atom:link href="http://chandanant.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Mar 2021 17:39:19 +0530</lastBuildDate><atom:link href="https://chandanant.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Useful Software/Tools</title>
-      <link>http://chandanant.github.io/post/2020-03-29/</link>
+      <link>https://chandanant.github.io/post/2020-03-29/</link>
       <pubDate>Mon, 29 Mar 2021 17:39:19 +0530</pubDate>
       
-      <guid>http://chandanant.github.io/post/2020-03-29/</guid>
+      <guid>https://chandanant.github.io/post/2020-03-29/</guid>
       <description>This is a living list of software/tools that I have used and found helpful. All of them are available for free or have a freemium version that gets the job done. Most of them are cross platform as well.
   VS Code Extensions
  Bracket Pair Colourizer Git Lens Spell Check : Will help avoid &amp;ldquo;nit&amp;rdquo; comments in your pull requests    Fiddler : Monitor, search and edit network requests flowing in and out of your system.</description>

@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://chandanant.github.io/sitemap.xml
